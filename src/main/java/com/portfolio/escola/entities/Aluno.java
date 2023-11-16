@@ -22,4 +22,5 @@ public class Aluno extends User {
     private List<Disciplina> disciplinas;
 
 
+
 }
